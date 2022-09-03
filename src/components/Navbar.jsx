@@ -15,7 +15,7 @@ function Navbar() {
     >
       <span className="logo">Saturday Shopee</span>
       <div>
-        <Link className="navLink" to="/">
+        <Link className="navLink" to="/ecommerce-app">
           Home
         </Link>
         <Link className="navLink" to="/cart">
